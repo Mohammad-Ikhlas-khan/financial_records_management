@@ -28,7 +28,7 @@ A secure, role-based **RESTful API** built with **Java Spring Boot** for managin
 
 ```bash
 git clone https://github.com/Mohammad-Ikhlas-khan/financial_records_management.git
-cd financial_records_management
+cd financial_records_management/finance
 ```
 
 ### 2. Create the PostgreSQL Database
