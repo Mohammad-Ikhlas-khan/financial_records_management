@@ -391,6 +391,11 @@ Returns a full financial summary. **Accessible to all authenticated roles (ADMIN
 
 The `Recent Activity` field contains the 5 most recently dated records. `Monthly trend` groups income and expenses by calendar month number.
 
+### API Documentation URl
+
+
+https://documenter.getpostman.com/view/37603669/2sBXiqFUmd
+
 ---
 
 ## Role & Permission Matrix
